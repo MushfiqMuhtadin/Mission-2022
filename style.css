@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+   
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+/* top section */
+.top-section{
+    display: flex;
+    
+}
+.half-site{
+    width: 40%;
+    padding: 60px;
+    
+}
+.top-tittle{
+    font-weight:900px;
+    border-left: 5px solid rgb(228, 74, 112);
+    font-size: 43px;
+
+}
+.mission{
+    
+    color: orange;
+}
+.imgagess{
+    margin-top: -70px;
+    height: 100%;
+    width: 100%;
+}
+#scrol-text{
+    margin-top: 40px;
+}
+
+/* midddle-p */
+#middle-paragraph{
+    margin-bottom: 30px;
+
+}
+/* explore button */
+#button{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(250, 85, 85);
+    padding: 15px ;
+    border-radius: 7px;
+    
+    
+}
+#button:hover{
+    background-color: rgb(74, 174, 255);
+
+}
+/* mt mission section */
+#my-mission-tittle{
+    font-size: 43px;
+    text-align: center;
+    margin-top: -30px;
+
+}
+.my-mission{
+    display: flex;
+    margin-left:  35px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    
+   
+    
+}
+.middle-mission{
+margin-right: 20px;
+    width:32% ;
+    padding: 20px;
+    border-radius: 7px;
+    
+}
+.misssion-image{
+    height: 130px;
+    width: 130px;
+}
+#mission{
+    background-color: rgba(71, 193, 224, 0.199);
+}
+#vission{
+    background-color: rgba(208, 219, 102, 0.247);
+}
+#goals{
+    background-color: rgba(233, 192, 58, 0.336);
+}
+/* develop section */
+.develop{
+    display: flex;
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    background-position: left;
+    margin: 25px;
+}
+.develop-left{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5%;
+}
+#deveop-paragrap{
+    margin-top: 20px;
+    margin-bottom: 45px;
+    font-size: 25px;
+}
+.develop-button{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(70, 81, 233);
+    padding: 15px ;
+    border-radius: 7px;
+}
+.develop-button:hover{
+  background-color: rgb(63, 144, 236);
+   
+}
+/* Global-community section */
+.Global-Community{
+  
+    display: flex;
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    background-position: right bottom;
+    margin: 25px;
+
+}
+.Global-left{
+    margin-top: 40px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5%;
+}
+.Global-imgagess{
+    margin-top: -70px;
+    height: 100%;
+    width: 100%;
+ 
+    
+
+}
+
+/* botompart */
+.bottompart{
+    display: flex;
+   
+    margin-bottom: 65px;
+    padding-bottom: 20px;
+   
+}
+.bottompart-imgagess{
+   
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+
+
+}
+.bottompart-columm{
+ 
+    width: 40%;
+    margin: 0 25px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+.bottompart-header{
+    color: orange;
+    text-align: center;
+}
+/* footer */
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+#footerh1{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+#skipword{
+    color: tomato;
+}
+
+
+
+h3{
+    
+    color: white;
+    font-size: 15px;
+    margin-bottom: 50px;
+
+}
