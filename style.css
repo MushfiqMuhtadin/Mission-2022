@@ -94,7 +94,7 @@ margin-right: 20px;
 /* develop section */
 .develop{
     display: flex;
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 180px;
     background-position: left;
@@ -127,7 +127,7 @@ margin-right: 20px;
 .Global-Community{
   
     display: flex;
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 180px;
     background-position: right bottom;
